@@ -1,0 +1,2 @@
+# qr
+recycle qr app
